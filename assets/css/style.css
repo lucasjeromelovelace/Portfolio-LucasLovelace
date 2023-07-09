@@ -12,12 +12,13 @@ header  {
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(255, 255, 255)
-    color: black;
+    color black;
 }
 
 header h1 {
     display: inline-block;
     font-size: 38px;
+    text-decoration:overline
 }
 
 header nav {
@@ -34,20 +35,11 @@ header nav ul {
 
 header nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 45px;
 }
 
 p {
     font-size: 18px;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 main {
@@ -56,11 +48,47 @@ main {
     margin-right: 20px;;
 }
 
-img{
-    max-width: 25%;
-    max-height: 25%;
+.img1{
+    max-width: 10%;
+    max-height: 10%;
+    border: 5px;
+    padding: 5px;
+    border-radius: 45%;
 }
 
 .contact{
     display: inline-block;
+}
+
+bio{
+    font-size: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.horiseon{
+    height: 100%;
+    width: 100%;
+}
+
+.pics{
+    max-width: 100%;
+    max-height: 100%;
+    border: 5px;
+    padding: 5px;
+}
+
+.resize {
+    width: 40%;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+@media screen and (max-width: 950px){
+    .horiseon, .pics, header
+}
+
+@media screen {
+    
 }
