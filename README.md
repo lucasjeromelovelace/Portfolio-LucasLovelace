@@ -25,7 +25,7 @@ React (plaecholder)
 Javascript(placeholder)
 
 ## Usuage
-[Link](https://lucasjeromelovelace.github.io/Portfolio-LucasLovelace/)
+[Link](https://lucasjeromelovelace.github.io/Portfolio-LucasLovelace/)https://lucasjeromelovelace.github.io/Portfolio-LucasLovelace/
 
 ## Screenshot
 
