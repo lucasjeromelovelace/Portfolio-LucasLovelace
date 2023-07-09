@@ -60,11 +60,6 @@ main {
     display: inline-block;
 }
 
-bio{
-    font-size: 300px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
 .horiseon{
     height: 100%;
     width: 100%;
@@ -75,20 +70,20 @@ bio{
     max-height: 100%;
     border: 5px;
     padding: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    text-align: center;
 }
 
 .resize {
-    width: 40%;
-    flex: 1;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-}
+    display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+  }
 
 @media screen and (max-width: 950px){
-    .horiseon, .pics, header
-}
-
-@media screen {
-    
+    .horiseon
 }
