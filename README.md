@@ -28,4 +28,5 @@ Javascript(placeholder)
 https://lucasjeromelovelace.github.io/Portfolio-LucasLovelace/
 
 ## Screenshot
+![Portfolio](https://github.com/lucasjeromelovelace/Portfolio-LucasLovelace/assets/99099060/bfffd528-c085-4f89-86a1-d0d636fa91e7)
 
