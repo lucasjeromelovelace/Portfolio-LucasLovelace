@@ -28,3 +28,4 @@ Javascript(placeholder)
 [Link](https://lucasjeromelovelace.github.io/Portfolio-LucasLovelace/)
 
 ## Screenshot
+https://github.com/lucasjeromelovelace/Portfolio-LucasLovelace/issues/1#issue-1795621379
